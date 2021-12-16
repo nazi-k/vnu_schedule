@@ -7,7 +7,6 @@ $ cd vun_schedule
 ### 2 Config setup 
 ```
 $ mv config/bot.ini.example config/bot.ini
-$ vim config/bot.ini
 ```
   - add this configuration to your bot.ini file
 ```
